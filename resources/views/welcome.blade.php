@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <a herf="{{route('hello.index')}}">Hello</a>
+
                 </div>
 
                 <div class="links">
